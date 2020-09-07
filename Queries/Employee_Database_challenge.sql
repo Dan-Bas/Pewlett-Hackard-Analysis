@@ -9,7 +9,9 @@ SELECT e.emp_no,
 INTO retirement_titles
 FROM employees as e 
 INNER JOIN titles as t 
-ON (e.emp_no = t.emp_no);
+ON (e.emp_no = t.emp_no)
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+ORDER BY e.emp_no ASC;
 
 -- Create Unique Titles
 -- Use Dictinct with Orderby to remove duplicate rows
