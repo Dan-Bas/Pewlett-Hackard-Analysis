@@ -27,12 +27,12 @@ This table takes data from three different tables, employees, dept_emp, and titl
 ## Summary
 The total number of employees will be retiring, 90,398.
 
-![](Resources/menthorship_eligibility.png)
+![](Resources/num_retiring_emp.png)
 
 The number of employees eligible for the mentorship program is 1,940. 
 
-![](Resources/menthorship_eligibility.png)
+![](Resources/num_ms.png)
 
 We can see that the majority of the jobs that need to be filled are in the Senior Engineer level follow by Senior Staff and Engineer; the fewer positions to be filled are Manager level counting with two and Assistant Engineer are among the less needed. All this is based on the number of employees by title to be retired.
 
-![](Resources/num_ms.png)
+![](Resources/num_by_title.png)
