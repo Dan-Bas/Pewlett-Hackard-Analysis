@@ -12,8 +12,7 @@ This table is gathering the information of all employees with their titles. In o
 - Unique Titles
 This table removes the duplicate employees who have been in more than one position throughout the company's time. It reduces and gives a more realistic number of employees.
 
-![graph1](Resources/unique_titles.png)
-
+![g2](Resources/unique_titles.png)
 - Retiring Titles
 This table group and count the retiring employees by title shows a clear picture of how many retirement packages and job openings will be needed.
 
